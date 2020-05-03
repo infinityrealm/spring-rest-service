@@ -1,4 +1,4 @@
-Simple spring based rest service with preloaded sample db
+Simple spring based rest service with preloaded sample data
 
 
 To run application
